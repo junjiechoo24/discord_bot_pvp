@@ -1,0 +1,5 @@
+implement cisi job monitoring if job fail with columns
+
+look into ocr methods on low res
+
+need a try except for parsed response 'OCRExitCode': 1, 'IsErroredOnProcessing': False
