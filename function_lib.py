@@ -242,7 +242,7 @@ def read_image(image_stream):
     import requests
 
     # Replace 'YOUR_API_KEY' with your actual OCR.space API key
-    api_key = 'K85178701188957'
+    api_key = param.ocr_key
 
     # URL of the OCR.space API endpoint
     api_url = 'https://api.ocr.space/parse/image'
