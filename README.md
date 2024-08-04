@@ -1,5 +1,8 @@
 # GCP Project to analyse PvP match results for Blue Archive
 
+![PvP Sample Image](https://drive.google.com/uc?id=11LgIJYlc79NX8gjipqzLADvb9pt6uNk2)
+
+
 ## Project Overview
 
 The primary goal of this project is to gather win/lose results of PvP matches in the Blue Archive game that were posted onto Discord. The aim is to analyse winning and losing compositions to find the best PvP composition for every situation in the game.
