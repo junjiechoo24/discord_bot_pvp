@@ -1,4 +1,4 @@
-# GCP Project to analyse PvP match results for Blue Archive
+# GCP Project to Analyse PvP Match Results for Blue Archive
 
 ![PvP Sample Image](https://drive.google.com/uc?id=11LgIJYlc79NX8gjipqzLADvb9pt6uNk2)
 
